@@ -14,5 +14,5 @@
   - Matplotlib
   - Seaborn
   - Jupyter Notebook
-- Download/clone this repo and run all cells in **sample_run.ipynb.**
+- Download/clone this repo and run all cells in **project.ipynb.**
 - Note: Notebook will install further libraries for use within the notebook so have an internet connection while running it.
